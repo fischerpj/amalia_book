@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "le livre d’Amalia",
+    "section": "",
+    "text": "Preface\nThis is a Quarto book. Un livre pour Amala (interactif et multimédia)\nTo learn more about Quarto books visit https://quarto.org/docs/books.\nLet’s do a button with OJS\n\nviewof clicks =  Inputs.button(html`&lt;i&gt;Click me&lt;/i&gt;`)\n\n\n\n\n\n\n\nclicks"
+  },
+  {
+    "objectID": "prenoms.html",
+    "href": "prenoms.html",
+    "title": "1  les prénoms",
+    "section": "",
+    "text": "Jésus\nabuelita\nile\nmaman\npapa\namalia\nabuelito\npedro\npedro\nlaure\ngrantiti\ngranpiero\nmuriel\nzacharie"
+  },
+  {
+    "objectID": "design_and_features.html",
+    "href": "design_and_features.html",
+    "title": "design and features",
+    "section": "",
+    "text": "Quarto, EPUB, PDF, HTML.\n\nQ&A\n\nutiliser un autre PDF engine que xelatex ? format: pdf: pdf-engine: lualatex\nlandscape pdf\n\nformat: pdf: classoption: landscape"
+  }
+]

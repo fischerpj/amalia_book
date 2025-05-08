@@ -1,0 +1,16 @@
+# design and features {.unnumbered}
+
+Quarto, EPUB, PDF, HTML.
+
+### Q&A
+
+- utiliser un autre PDF engine que xelatex ?
+  format:
+   pdf:
+    pdf-engine: lualatex
+    
+- landscape pdf    
+
+format:
+  pdf:
+    classoption: landscape

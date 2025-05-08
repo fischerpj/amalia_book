@@ -1,0 +1,15 @@
+# Preface {.unnumbered}
+
+This is a Quarto book. Un livre pour Amala (interactif et multimédia)
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+Let's do a button with OJS
+
+```{ojs}
+viewof clicks =  Inputs.button(html`<i>Click me</i>`)
+```
+
+```{ojs}
+clicks
+```

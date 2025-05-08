@@ -1,0 +1,26 @@
+{
+  "index.qmd": {
+    "index.html": "9fc75139"
+  },
+  "intro.qmd": {
+    "intro.html": "41e10a40"
+  },
+  "summary.qmd": {
+    "summary.html": "2849da4e"
+  },
+  "references.qmd": {
+    "references.html": "db0ed258"
+  },
+  "prenoms.qmd": {
+    "prenoms.html": "4e5ee455"
+  },
+  "design & features.qmd": {
+    "design & features.html": "505a95cd"
+  },
+  "design_and_features.qmd": {
+    "design_and_features.html": "e968fc01"
+  },
+  "martine.qmd": {
+    "martine.html": "1aa38313"
+  }
+}

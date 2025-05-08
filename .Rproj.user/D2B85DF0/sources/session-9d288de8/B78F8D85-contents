@@ -1,0 +1,23 @@
+# Introduction
+
+This is a book created from markdown and executable code.
+
+See @knuth84 for additional discussion of literate programming.
+
+```{r}
+1 + 1
+```
+
+echo "\# amalia_book" \>\> README.md
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/fischerpj/amalia_book.git
+
+git push -u origin main
